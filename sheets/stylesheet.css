@@ -22,29 +22,29 @@ h1,h2,h3,h4,h5,h6 {
 #hras{
     background-color: #FF6347;
     color: #D8BFD8;
-    width: 200px; 
-    height: 300px;
+    width: 100px; 
+    height: 150px;
 }
 
 #herkomst {
     background-image:url("img/springer.jpg");
     color: #4B00B2;
-    width: 200px; 
-    height: 300px;
+    width: 100px; 
+    height: 150px;
 }
 
 #leeftijd {
     background-color: #FFC0CB;
     color: #4B00B2;
-    width: 200px; 
-    height: 300px;
+    width: 100px; 
+    height: 150px;
 }
 
 #vacht {
-    background-image:url("img/h3.jpg");
+    background-image:url("img/h3.jpg" width: "100" height: "150");
     color: #4B00B2;
-    width: 200px; 
-    height: 300px;
+    width: 100px; 
+    height: 150px;
 }
 
 #collie {
