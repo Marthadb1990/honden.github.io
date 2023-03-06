@@ -27,7 +27,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #herkomst {
-    background-image:("img/springer.jpg");
+    background-image:url("honden.github.io/img/springer.jpg");
     background-size: 100px;
     display: table-cell;
     color: #4B00B2;
@@ -43,7 +43,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #vacht {
-    background-image:("img/h3.jpg");
+    background-image:url("honden.github.io/img/h3.jpg");
     display: table-cell;
     background-size: 100px;
     color: #4B00B2;
@@ -59,7 +59,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #schot {
-    background-image:url("img/h4.jpg");
+    background-image:url("honden.github.io/img/h4.jpg");
     display: table-cell;
     background-size: 100px;
     color: #4B00B2;
@@ -75,7 +75,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #dvacht {
-    background-image:url("img/h5.jpg");
+    background-image:url("honden.github.io/img/h5.jpg");
     display: table-cell;
     background-size: 100px;
     color: #4B00B2;
@@ -91,7 +91,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #land {
-    background-image:url("img/h6.jpg");
+    background-image:url("honden.github.io/img/h6.jpg");
     display: table-cell;
     background-size: 100px;
     color: #4B00B2;
@@ -107,7 +107,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #zvacht {
-    background-image:url("img/h7.jpg");
+    background-image:url("honden.github.io/img/h7.jpg");
     display: table-cell;
     background-size: 100px;
     color: #4B00B2;
@@ -123,7 +123,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #lan {
-    background-image:url("img/h8.jpg");
+    background-image:url("honden.github.io/img/h8.jpg");
     display: table-cell;
     background-size: 100px;
     color: #4B00B2; 
@@ -139,7 +139,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #special {
-    background-image:url("img/h2.jpg");
+    background-image:url("honden.github.io/img/h2.jpg");
     display: table-cell;
     background-size: 100px;
     color: #4B00B2;
@@ -155,7 +155,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #land1 {
-    background-image:url("img/h1.jpg");
+    background-image:url("honden.github.io/img/h1.jpg");
     display: table-cell;
     background-size: 100px;
     color: #4B00B2;
@@ -171,7 +171,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #special {
-    background-image:url("img/springer.jpg");
+    background-image:url("honden.github.io/img/springer.jpg");
     display: table-cell;
     background-size: 100px;
     color: #FF00FF;
