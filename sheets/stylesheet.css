@@ -75,7 +75,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #dvacht {
-    background-image:url("honden.github.io/img/h5.jpg");
+    background-image:url(":/Users/Martha/https/githubproef2/honden.github.io/img/h5.jpg");
     display: table-cell;
     background-size: 100px;
     color: #4B00B2;
