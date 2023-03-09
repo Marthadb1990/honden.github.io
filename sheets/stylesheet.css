@@ -27,9 +27,9 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #herkomst {
-    height:100%;
-    background-image:url("/img/pexels-chevanon-photography-1108099.jpg");
-    height: 100%;
+    background-image:url("https://images.pexels.com/photos/3454270/pexels-photo-3454270.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    width: 150px;
+    height: 100px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
