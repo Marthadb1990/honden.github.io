@@ -27,7 +27,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #herkomst {
-    background-image:url("https://images.pexels.com/photos/3454270/pexels-photo-3454270.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-image:url("https://images.pexels.com/photos/12541589/pexels-photo-12541589.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
     display: table-cell;
     background-size: 100px;
     width: 150px;
@@ -42,7 +42,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #vacht {
-    background-image: url("img/h3.jpg");
+    background-image: url("https://images.pexels.com/photos/825949/pexels-photo-825949.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
     display: table-cell;
     background-size: 100px;
     color: #4B00B2;
@@ -58,7 +58,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #schot {
-    background-image: url("img/h4.jpg");
+    background-image: url("https://images.pexels.com/photos/13255992/pexels-photo-13255992.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
     display: table-cell;
     background-size: 100px;
     color: #4B00B2;
@@ -74,7 +74,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #dvacht {
-    background-image: url("img/h5.jpg");
+    background-image: url("https://www.hondenrassen.nl/public/img/content/schotse_herdershond.jpg");
     display: table-cell;
     background-size: 100px;
     color: #4B00B2;
@@ -90,7 +90,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #land {
-    background-image: url("img/h6.jpg");
+    background-image: url("https://images.pexels.com/photos/13255992/pexels-photo-13255992.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
     display: table-cell;
     background-size: 100px;
     color: #4B00B2;
@@ -106,7 +106,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #zvacht {
-    background-image: url("img/h7.jpg");
+    background-image: url("https://www.hondenrassen.nl/public/img/content/bordercollie.jpg");
     display: table-cell;
     background-size: 100px;
     color: #4B00B2;
@@ -122,7 +122,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #lan {
-    background-image: url("img/h8.jpg");
+    background-image: url("https://www.vlaggen.com/wp-content/uploads/2020/06/Duitsland-vlag.jpg");
     display: table-cell;
     background-size: 100px;
     color: #4B00B2; 
@@ -138,48 +138,9 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #special {
-    background-image: url("img/h2.jpg");
+    background-image: url("https://www.weimaranerwereld.nl/wp-content/uploads/2021/06/weimaraner-14.png");
     display: table-cell;
     background-size: 100px;
-    color: #4B00B2;
-    width: 150px; 
-    height: 100px;
-}
-
-#spaniel {
-    background-color: #006400;
-    color: #D8BFD8;
-    width: 150px; 
-    height: 100px;
-}
-
-#land1 {
-    background-image: url("img/h1.jpg");
-    display: table-cell;
-    background-size: 100px;
-    color: #4B00B2;
-    width: 150px; 
-    height: 100px;
-}
-
-#leeftijd2 {
-    background-color: #FF1493;
-    color: #4B00B2;
-    width: 150px; 
-    height: 100px;
-}
-
-#special {
-    background-image: url("img/springer.jpg");
-    display: table-cell;
-    background-size: 100px;
-    color: #FF00FF;
-    width: 150px; 
-    height: 100px;
-}
-
-#special1 {
-    background-color: #008B8B;
     color: #4B00B2;
     width: 150px; 
     height: 100px;
